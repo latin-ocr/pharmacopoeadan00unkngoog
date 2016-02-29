@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./pharmacopoeadan00unkngoog_0008.png"; bbox 0 0 2418 4148; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 82 419 1194 650">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 82 343 1194 650">
+     <span class='ocr_line' id='line_1_1' title="bbox 82 419 1194 650; baseline 0.005 -102"><span class='ocrx_word' id='word_1_1' title='bbox 82 419 960 553; x_wconf 79' lang='lat' dir='ltr'><strong>PHARMACOPOEA</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1189 605 1194 650; x_wconf 22' lang='grc' dir='ltr'><strong>ἱ</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 286 847 745 960">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 286 847 745 960">
+     <span class='ocr_line' id='line_1_2' title="bbox 286 847 745 960; baseline 0.007 -5"><span class='ocrx_word' id='word_1_3' title='bbox 286 847 745 960; x_wconf 89' lang='lat' dir='ltr'><strong>DANICA</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 322 3009 781 3114">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 322 3009 781 3114">
+     <span class='ocr_line' id='line_1_3' title="bbox 322 3009 781 3114; baseline 0.002 -3"><span class='ocrx_word' id='word_1_4' title='bbox 322 3009 781 3114; x_wconf 71' lang='lat' dir='ltr'>Mssb10LAN1&#39;</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 367 3413 806 3480">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 367 3383 1194 3928">
+     <span class='ocr_line' id='line_1_4' title="bbox 367 3413 806 3480; baseline 0.004 -16"><span class='ocrx_word' id='word_1_5' title='bbox 367 3413 515 3480; x_wconf 77' lang='lat' dir='ltr'><em>Sumpzibus</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 533 3415 663 3466; x_wconf 76' lang='lat' dir='ltr'><strong><em>Editoris.</em></strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 804 3473 806 3476; x_wconf 22' lang='lat'>¹</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1214 4148">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1214 4148">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1214 4148; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 0 0 1214 4148; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
